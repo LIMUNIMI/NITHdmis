@@ -1,0 +1,123 @@
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Tobii.EyeX.Client.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NeeqDMIs.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\ArduinoDriver.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\ArduinoUploader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\EyeTribe.ClientSdk.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\IntelHexFormatReader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Microsoft.Win32.Registry.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NAudio.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Newtonsoft.Json.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NLog.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\RawInputProcessor.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Tobii.Interaction.Model.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Tobii.Interaction.Net.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\WindowsBase.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\XInput.Wrapper.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NAudio.xml
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\Newtonsoft.Json.xml
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\NLog.xml
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.xml
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CopyComplete
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\obj\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\obj\Debug\NeeqDMIs.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NETYTAR_RIPRISTINO\NeeqDMIs\obj\Debug\NeeqDMIs.csprojAssemblyReference.cache
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\Tobii.EyeX.Client.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\NeeqDMIs.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\ArduinoUploader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\EyeTribe.ClientSdk.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\IntelHexFormatReader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\Microsoft.Win32.Registry.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\NAudio.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\Newtonsoft.Json.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\NLog.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\System.Security.AccessControl.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\System.Security.Principal.Windows.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\Tobii.Interaction.Model.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\Tobii.Interaction.Net.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\XInput.Wrapper.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\ArduinoDriver.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\RawInputProcessor.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\bin\Debug\WindowsBase.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\obj\Debug\NeeqDMIs.csprojAssemblyReference.cache
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CopyComplete
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\obj\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\Netytar_git\NeeqDMIs\obj\Debug\NeeqDMIs.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\Tobii.EyeX.Client.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\NeeqDMIs.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\ArduinoUploader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\EyeTribe.ClientSdk.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\IntelHexFormatReader.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\Microsoft.Win32.Registry.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\NAudio.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\Newtonsoft.Json.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\NLog.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.pdb
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\System.Security.AccessControl.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\System.Security.Principal.Windows.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\Tobii.Interaction.Model.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\Tobii.Interaction.Net.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\XInput.Wrapper.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\ArduinoDriver.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\RawInputProcessor.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\bin\Debug\WindowsBase.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\obj\Debug\NeeqDMIs.csprojAssemblyReference.cache
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CoreCompileInputs.cache
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CopyComplete
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\obj\Debug\NeeqDMIs.dll
+C:\root_X542U\Frammenti software\Visual Studio Projects\NeeqDMIs\obj\Debug\NeeqDMIs.pdb
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.dll.config
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.pdb
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\EyeTribe.ClientSdk.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\IntelHexFormatReader.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RawInputProcessor.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\XInput.Wrapper.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.pdb
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.xml
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CopyComplete
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.dll
+C:\Users\User\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.pdb
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.dll.config
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NeeqDMIs.pdb
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\EyeTribe.ClientSdk.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\IntelHexFormatReader.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NLog.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RawInputProcessor.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\XInput.Wrapper.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\NLog.xml
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.pdb
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\bin\Debug\RJCP.SerialPortStream.xml
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.AssemblyReference.cache
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CoreCompileInputs.cache
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.csproj.CopyComplete
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.dll
+C:\Users\neequ\OneDrive\Documenti\GitHub\NeeqDMIs\obj\Debug\NeeqDMIs.pdb
