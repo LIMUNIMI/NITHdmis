@@ -1,4 +1,7 @@
-﻿namespace NITHdmis.Utils.ValueFilters
+﻿using System;
+using System.Drawing;
+
+namespace NITHdmis.Utils.ValueFilters
 {
     public class DoubleArrayFilterMAExpDecaying : IDoubleArrayFilter
     {

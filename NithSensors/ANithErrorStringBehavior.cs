@@ -1,4 +1,6 @@
-﻿namespace NITHdmis.NithSensors
+﻿using System;
+
+namespace NITHdmis.NithSensors
 {
     public abstract class ANithErrorStringBehavior : INithErrorBehavior
     {

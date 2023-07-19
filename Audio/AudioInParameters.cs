@@ -1,6 +1,6 @@
 ﻿using NITHdmis.Music;
 
-namespace NITHdmis.Utils
+namespace NITHdmis.Audio
 {
     public class AudioInParameters
     {
