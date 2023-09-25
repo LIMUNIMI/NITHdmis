@@ -1,6 +1,6 @@
 ﻿namespace NITHdmis.Headtracking.NeeqHT
 {
-    public enum NeeqHTModes
+    public enum HeadTrackerModes
     {
         Absolute,
         Acceleration

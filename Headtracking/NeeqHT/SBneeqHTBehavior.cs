@@ -21,7 +21,7 @@ namespace NITHdmis.Headtracking.NeeqHT
             }
             else if (val.StartsWith("$"))
             {
-                module.HeadTrackerMode = NeeqHTModes.Absolute;
+                module.HeadTrackerMode = HeadTrackerModes.Absolute;
 
                 val = val.Replace("$", string.Empty);
                 split = val.Split('!');
@@ -35,7 +35,7 @@ namespace NITHdmis.Headtracking.NeeqHT
             }
             else if (val.StartsWith("R"))
             {
-                module.HeadTrackerMode = NeeqHTModes.Acceleration;
+                module.HeadTrackerMode = HeadTrackerModes.Acceleration;
 
                 val = val.Replace("R", string.Empty);
                 split = val.Split('!');

@@ -23,7 +23,7 @@ private void App_OnDispatcherUnhandledException(object sender, DispatcherUnhandl
 These two "using" to the same class:
 ====================================
 
-using NeeqDMIs.ErrorLogging;
+using NITHdmis.ErrorLogging;
 using System.Windows.Threading;
 
 
@@ -36,7 +36,7 @@ TraceAdder.AddTrace();
 Plus this "using" to the same class:
 ====================================
 
-using NeeqDMIs.ErrorLogging;
+using NITHdmis.ErrorLogging;
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

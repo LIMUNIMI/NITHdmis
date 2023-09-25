@@ -7,7 +7,7 @@ namespace NITHdmis.Headtracking.NeeqHT
         private AngleBaseChanger pitchBaseChanger;
         private AngleBaseChanger yawBaseChanger;
         private AngleBaseChanger rollBaseChanger;
-        public NeeqHTModes HeadTrackerMode { get; set; } = NeeqHTModes.Acceleration; 
+        public HeadTrackerModes HeadTrackerMode { get; set; } = HeadTrackerModes.Acceleration; 
         public Polar3DData Position { get; set; }
         public Polar3DData Acceleration { get; set; }
         public Polar3DData CenteredPosition

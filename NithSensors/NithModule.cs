@@ -63,19 +63,21 @@ namespace NITHdmis.NithSensors
                             {
                                 string[] s = v.Split('=');
                                 string argumentName = s[0];
-                                string value = "";
+                                NithValue value = new NithValue(s[1]);
+
+                                /* DEPRECATED */
 
                                 // Check if there is a "/" for value proportion
-                                if (s[1].Contains("/"))
-                                {
-                                    string[] propString = s[1].Split('/');
-                                    double propVal = (double.Parse(propString[0], CultureInfo.InvariantCulture) * 100) / double.Parse(propString[1], CultureInfo.InvariantCulture);
-                                    value = propVal.ToString(CultureInfo.InvariantCulture);
-                                }
-                                else
-                                {
-                                    value = s[1];
-                                }
+                                //if (s[1].Contains("/"))
+                                //{
+                                //    string[] propString = s[1].Split('/');
+                                //    double propVal = (double.Parse(propString[0], CultureInfo.InvariantCulture) * 100) / double.Parse(propString[1], CultureInfo.InvariantCulture);
+                                //    value = propVal.ToString(CultureInfo.InvariantCulture);
+                                //}
+                                //else
+                                //{
+                                //    value = s[1];
+                                //}
                                 
                                 data.Values.Add(NithParsers.ParseField(argumentName), value);
                             }

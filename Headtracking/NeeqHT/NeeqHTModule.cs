@@ -9,7 +9,7 @@ namespace NITHdmis.Headtracking.NeeqHT
         {
             base.Behaviors.Add(new SBneeqHTBehavior(this));
         }
-                public NeeqHTModes HeadTrackerMode { get; set; } = NeeqHTModes.Absolute;
+        public HeadTrackerModes HeadTrackerMode { get; set; } = HeadTrackerModes.Absolute;
 
         public NeeqHTData Data { get; set; } = new NeeqHTData();
 
