@@ -1,5 +1,4 @@
 ﻿using NAudio.Midi;
-using System.Windows.Forms;
 
 namespace NITHdmis.MIDI
 {
@@ -66,6 +65,7 @@ namespace NITHdmis.MIDI
             int status = 0b1110 << 4;
 
             MidiMessage message = new MidiMessage(status, lsb, msb);
+
             if(midiOut!=null && midiOk)
             midiOut.Send(message.RawData);
         }
