@@ -24,6 +24,7 @@ namespace NITHdmis.Audio.Out
         private WaveFormat waveFormat;
         private List<ISampleProvider> muteGeneratorsList;
 
+        
         public WaveOutDeviceMixerModule(WaveFormat waveFormat, int waveOutDeviceIndex = 0, int desiredLatency = 100)
         {
             this.waveOutDeviceIndex = waveOutDeviceIndex;
@@ -43,6 +44,9 @@ namespace NITHdmis.Audio.Out
             InitWaveOutChain();
         }
 
+        ///<summary>
+        /// Initializes the WaveOut chain by creating a SampleToWaveProvider and initializing the WaveOutEvent with it.
+        ///</summary>
         public void InitWaveOutChain()
         {
             sampleToWaveProvider = new SampleToWaveProvider(masterMixProvider);
@@ -128,6 +132,7 @@ namespace NITHdmis.Audio.Out
             }
         }
 
+        
         public void Dispose()
         {
             if (waveOutEvent != null)
@@ -164,6 +169,12 @@ namespace NITHdmis.Audio.Out
             // TODO forse è necessario reinizializzare
         }
 
+        ///<summary>
+        ///Builds a WaveOutEvent object for audio playback.
+        ///</summary>
+        ///<remarks>
+        ///This method disposes the existing waveOutEvent object if it is not null, and creates a new WaveOutEvent object for audio playback.
+        ///</remarks>
         private void BuildWaveOutEvent()
         {
             if (waveOutEvent != null)

@@ -4,6 +4,9 @@ namespace NITHdmis.ErrorLogging
 {
     public static class TraceAdder
     {
+        ///<summary>
+        /// Adds trace information, error and warning messages to the trace logs.
+        ///</summary>
         public static void AddTrace()
         {
             Trace.TraceInformation("Trace Information");

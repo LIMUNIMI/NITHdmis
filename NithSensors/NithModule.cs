@@ -1,8 +1,6 @@
 ﻿using NITHdmis.ATmega;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO.Ports;
-using System.Windows.Forms;
 
 namespace NITHdmis.NithSensors
 {
@@ -12,6 +10,7 @@ namespace NITHdmis.NithSensors
     public class NithModule : SensorBase
     {
         private readonly char[] STARTSYMBOL = new char[] { '$' };
+
         /// <summary>
         /// Initializes a Nith sensor module.
         /// </summary>
@@ -23,13 +22,13 @@ namespace NITHdmis.NithSensors
             LastError = NithErrors.NaE;
         }
 
+        public List<INithErrorBehavior> ErrorBehaviors { get; protected set; }
+        public List<NithArguments> ExpectedArguments { get; set; } = new List<NithArguments>();
+        public List<NithSensorNames> ExpectedSensorNames { get; set; } = new List<NithSensorNames>();
+        public List<string> ExpectedVersions { get; set; } = new List<string>();
         public NithErrors LastError { get; protected set; }
         public NithSensorData LastSensorData { get; protected set; }
         public List<INithSensorBehavior> SensorBehaviors { get; protected set; }
-        public List<INithErrorBehavior> ErrorBehaviors { get; protected set; }
-        public List<NithSensorNames> ExpectedSensorNames { get; set; } = new List<NithSensorNames>();
-        public List<string> ExpectedVersions { get; set; } = new List<string>();
-        public List<NithArguments> ExpectedArguments { get; set; } = new List<NithArguments>();
 
         protected override void DataReceivedHandler(object sender, SerialDataReceivedEventArgs e)
         {
@@ -44,7 +43,6 @@ namespace NITHdmis.NithSensors
 
                     if (line.StartsWith("$"))
                     {
-                        //string TEST = "";
                         error = NithErrors.OK; // Set to ok, then check if wrong
                         try
                         {
@@ -52,7 +50,6 @@ namespace NITHdmis.NithSensors
                             string[] fields = line.Split('|');
                             string[] firstField = fields[0].Split('-');
                             string[] arguments = fields[2].Split('&');
-                            //TEST = firstField[0];
 
                             // Parsings
                             data.RawLine = line;
@@ -63,23 +60,9 @@ namespace NITHdmis.NithSensors
                             {
                                 string[] s = v.Split('=');
                                 string argumentName = s[0];
-                                NithValue value = new NithValue(s[1]);
+                                NithArgumentValue value = new NithArgumentValue(NithParsers.ParseField(argumentName), s[1]);
 
-                                /* DEPRECATED */
-
-                                // Check if there is a "/" for value proportion
-                                //if (s[1].Contains("/"))
-                                //{
-                                //    string[] propString = s[1].Split('/');
-                                //    double propVal = (double.Parse(propString[0], CultureInfo.InvariantCulture) * 100) / double.Parse(propString[1], CultureInfo.InvariantCulture);
-                                //    value = propVal.ToString(CultureInfo.InvariantCulture);
-                                //}
-                                //else
-                                //{
-                                //    value = s[1];
-                                //}
-                                
-                                data.Values.Add(NithParsers.ParseField(argumentName), value);
+                                data.Values.Add(value);
                             }
                         }
                         catch
@@ -99,16 +82,9 @@ namespace NITHdmis.NithSensors
                                 if (data.StatusCode != NithStatusCodes.ERR)
                                 {
                                     // Check arguments
-                                    if (ExpectedArguments.Count != 0)
+                                    if (ExpectedArguments.Count != 0 && !data.ContainsArguments(ExpectedArguments))
                                     {
-                                        foreach (NithArguments arg in ExpectedArguments)
-                                        {
-                                            if (!data.Values.ContainsKey(arg))
-                                            {
-                                                error = NithErrors.Values;
-                                                break;
-                                            }
-                                        }
+                                        error = NithErrors.Values;
                                     }
                                 }
                                 else

@@ -49,7 +49,7 @@ namespace NITHdmis.MIDI
         public void SetModulation(int modulation)
         {
             if(midiOut!=null && midiOk)
-            midiOut.Send(MidiMessage.ChangeControl(1, modulation, midiChannel).RawData);
+                midiOut.Send(MidiMessage.ChangeControl(1, modulation, midiChannel).RawData);
         }
 
         public void SetPitchBend(int pitchBendValue)
@@ -67,13 +67,13 @@ namespace NITHdmis.MIDI
             MidiMessage message = new MidiMessage(status, lsb, msb);
 
             if(midiOut!=null && midiOk)
-            midiOut.Send(message.RawData);
+                midiOut.Send(message.RawData);
         }
 
         public void SetPitchNoBend()
         {
             if(midiOut!=null && midiOk)
-            SetPitchBend(8192);
+                SetPitchBend(8192);
         }
 
         public void SetPressure(int pressure)

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace NITHdmis.Mouse
 {
+
     [Flags]
     public enum MouseButtonFlags
     {
