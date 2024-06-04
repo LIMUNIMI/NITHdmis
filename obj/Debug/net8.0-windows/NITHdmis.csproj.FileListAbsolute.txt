@@ -1,0 +1,17 @@
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHdmis.dll.config
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHdmis.deps.json
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHdmis.dll
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHdmis.pdb
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHlibrary.dll
+D:\GitHub\NITHdmis\bin\Debug\net8.0-windows\NITHlibrary.pdb
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.csproj.AssemblyReference.cache
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.AssemblyInfoInputs.cache
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.AssemblyInfo.cs
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.csproj.CoreCompileInputs.cache
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.sourcelink.json
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.csproj.Up2Date
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.dll
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\refint\NITHdmis.dll
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\NITHdmis.pdb
+D:\GitHub\NITHdmis\obj\Debug\net8.0-windows\ref\NITHdmis.dll
