@@ -1,7 +1,5 @@
-﻿using System.Drawing;
-using System.Globalization;
-using NITHlibrary.Nith.Behaviors;
-using NITHlibrary.Nith.Internals;
+﻿using NITHlibrary.Nith.Internals;
+using System.Drawing;
 
 namespace NITHdmis.Modules.Mouse
 {
