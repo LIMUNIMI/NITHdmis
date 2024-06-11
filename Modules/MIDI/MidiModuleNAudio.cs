@@ -1,7 +1,6 @@
 ﻿using NAudio.Midi;
-using System;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.TrackBar;
-namespace NITHdmis.MIDI
+
+namespace NITHdmis.Modules.MIDI
 {
     /// <summary>
     /// A MIDI controller module based on the library NAudio.
